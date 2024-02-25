@@ -1,2 +1,13 @@
 cout<<"Mubashir Hanif"<<endl;
 cout<<"23-SET 046"<<endl;
+fsc subjects:-
+cout<<"Math,Physics,Computer"<<endl;
+1est semester subjects:-
+cout<<"ICT,Computer Programming,Calculus Math,OHM,Applied Physics,Islamiat"<<endl;
+2and semester subjects:-
+    1)-Software Development Life Cycle (TH)-SDLC
+    2)-Object Oriented Programming (TH)-OOP
+    3)-Probability and Statistics (TH)
+    4)-Teaching of Holy Quran Translations (TH)
+    5)-Functional English (TH)
+    6)-Discrete Structure (TH)
